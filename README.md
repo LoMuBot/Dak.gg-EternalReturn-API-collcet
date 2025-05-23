@@ -1,2 +1,2 @@
-# Dak.ggEternalReturn-API-collcet
-dakgg 永恒轮回版块 API 收集
+# dak.gg API 收集
+由玩家收集整理 旨在维护更好的永恒轮回社区 
